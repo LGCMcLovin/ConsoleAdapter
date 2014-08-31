@@ -1,0 +1,9 @@
+name: ConsoleAdapter
+main: io.github.LGCMcLovin.ConsoleAdapter.ConsoleAdapter
+version: 1
+commands:
+  cadapt:
+    description: Runs Commands as Target Player or Console
+    usage: /cadaptConsole, /cadaptPlayer
+  cadaptConsole:
+    description: Runs Commands as Console

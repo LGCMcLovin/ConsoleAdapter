@@ -1,0 +1,7 @@
+name: ConsoleAdapter
+main: io.github.LGCMcLovin.ConsoleAdapter.ConsoleAdapter
+version: 1
+commands:
+  cadapt:
+    description: Converts command to console sender
+    usage: Convert command to console sender
